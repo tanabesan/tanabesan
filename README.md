@@ -1,16 +1,14 @@
-## Hi there 👋
+### いん
 
-<!--
-**tanabesan/tanabesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+日本のオンラインコミュニティ・ブラウザゲーム周りのツール開発をしてます。
+LOLBeansやNETROOM向けの拡張機能・Discordボット・チャットサイトなどを作っています。
 
-Here are some ideas to get you started:
+## 🛠 主なプロジェクト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [lolbeans](https://github.com/tanabesan/lolbeans) - LOLBeansの拡張・エディターファイル
+- [lolex](https://github.com/tanabesan/lolex) - LOLBeans用Tampermonkeyユーザースクリプト
+- [lolbot](https://github.com/tanabesan/lolbot) - LOLBeans YouTube通知Discordボット
+- [yukichat](https://github.com/tanabesan/yukichat) - Firebaseベースのチャットサイト
+
+## 💻 使用技術
+JavaScript / Python / C++ / Node.js / Firebase / Discord.js
